@@ -69,13 +69,35 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/210094016-57acb1ca-9ee4-4df7-b8a2-386e06352d3f.png)**
 
+**![image](https://user-images.githubusercontent.com/116835707/210094321-4c75dd92-1f3d-4a43-9228-e315a353c5b6.png)**
+**![image](https://user-images.githubusercontent.com/116835707/210094348-94894a90-8377-432b-ab5a-220c0d7731fe.png)**
 
+**![image](https://user-images.githubusercontent.com/116835707/210094425-7f04e5e9-9f15-4cd5-bc7d-08695d0600fc.png)**
+**![image](https://user-images.githubusercontent.com/116835707/210094463-082e8c61-e066-4d0e-b9b3-46e02c3500c2.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/210094500-4af2ebc8-cefc-4f2f-bdae-1eb24decd27a.png)**
 
 **SECCIÓN 9-4**
 
 **Método del voltaje en nodos**
 
+**![image](https://user-images.githubusercontent.com/116835707/210094557-d0c22f98-d96d-4403-b755-da0e37e61890.png)**
+**![image](https://user-images.githubusercontent.com/116835707/210094588-427134a0-796f-43de-95ca-b5b9787dab5d.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/210094629-6997b61a-b8db-4418-a2a4-afda0ea95dd3.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/210094678-48ce0962-b872-456a-acaa-e8c8a7be3588.png)**
+
 **Localización y análisis de fallas con Multisim**
+
+**![image](https://user-images.githubusercontent.com/116835707/210094709-7caa2916-e6df-405b-a359-8b7289d18c18.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/210094744-dbd5b741-90c2-4cee-9112-a5c9a214a3f6.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/210094774-cff8ee4a-2bff-46bc-b8fc-fc91d706af9e.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/210094804-a8194cdd-71c3-4694-8b83-37952ce311b7.png)**
+
 
 **Capítulo 10**
 
