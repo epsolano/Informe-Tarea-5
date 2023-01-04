@@ -58,7 +58,7 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/210093632-eadbdbd0-c183-4c38-8334-62ee344fec93.png)**
 
-![image](https://user-images.githubusercontent.com/116835707/210669587-fb788cbd-6091-490d-a1f2-e2a28ecc863c.png)
+![image](https://user-images.githubusercontent.com/116835707/210669751-f4900ee7-75dc-44df-a371-3614b34e43e8.png)
 
 **SECCIÓN 9-2**
 
