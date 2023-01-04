@@ -51,13 +51,14 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/210093537-323d690e-be8c-4a23-8a8f-4727ec1dc23e.png)**
 
-![image](https://user-images.githubusercontent.com/116835707/210669045-e87c5e60-0548-4872-bedf-4562e646cc1c.png)
+![image](https://user-images.githubusercontent.com/116835707/210669451-6c2e7e9c-db68-4272-a44d-e36e31779f03.png)
+![image](https://user-images.githubusercontent.com/116835707/210669529-2b0645ed-1975-49bd-bf5c-080525d9c02e.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/210093596-ff4c54b7-0172-4020-bb19-8cf73abde974.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/210093632-eadbdbd0-c183-4c38-8334-62ee344fec93.png)**
 
-![image](https://user-images.githubusercontent.com/116835707/210669167-c57d8709-9858-4135-90a6-87a4d5b833f7.png)
+![image](https://user-images.githubusercontent.com/116835707/210669587-fb788cbd-6091-490d-a1f2-e2a28ecc863c.png)
 
 **SECCIÓN 9-2**
 
