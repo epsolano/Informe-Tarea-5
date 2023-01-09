@@ -12,10 +12,13 @@
 **1. OBJETIVOS**
 
 **1.1  OBJETIVO GENERAL**
+Leer el capitulo 9 y 10 del libro Principios de circuitos eléctricos de floyd para entender lo que es magnestismo y electromagntismo y poder realizar análisis de cicuitos por diferentes métodos. 
 
 **1.2  OBJETIVOS ESPECIFICOS**
-
-
+* Aprender los métodos de resolución de ecuaciones simultaneas.
+* Identificar cuando se puede utilizar el método de la corriente en ramas, análisis de lazos y análisi de nodos  para determinar cantidades desconocidas en un circuito
+* Comprender los principios de un campo magnético, electromagnetismo, operación de varios tipos de dispositivos electromagnéticos, inducción electromagnética.
+* Aprender lo que es la histéresis magnética.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **2. MARCO TEORICO**
