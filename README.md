@@ -12,6 +12,7 @@
 **1. OBJETIVOS**
 
 **1.1  OBJETIVO GENERAL**
+
 Leer el capitulo 9 y 10 del libro Principios de circuitos eléctricos de floyd para entender lo que es magnestismo y electromagntismo y poder realizar análisis de cicuitos por diferentes métodos. 
 
 **1.2  OBJETIVOS ESPECIFICOS**
@@ -248,8 +249,10 @@ https://youtu.be/-pUIdihYWis
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **5. CONCLUSIONES**
-
-
+* Existen tres métodos de resolucion de ecuaciones simultaneas, los cuales son: por sustitución, por determinantes y mediante calculadora, para realizar cualquiera de estos métodos siempre se debe poner las ecuaciones en la forma estándar.
+* Los métodos de la corriente en ramas , corriente de lazo, voltaje en nodos, se lo puede utilizar en la mayoría de los casos, el método que se utilizará para resolver un circuito dependerá de la persona y de su afinidad, sin embargo por cualquier método que se decida trabajar al final se deber llegar a la misma respuesta.
+* La histéresis magnetica es cuando se aplica una fuerza magnetizante a un material, lo que provoca que la densidad de flujo del material cambie en cierto modo.
+* Un campo magnético consiste en líneas de fuerza que se irradian desde el polo norte hasta el polo sur  y de regreso al polo norte a través del material magnético y electromagnetismo es cuando se produce un campo magnético por una corriente en un conductor.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **7. BIBLIOGRAFÍA**
