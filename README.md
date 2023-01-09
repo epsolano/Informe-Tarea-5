@@ -21,6 +21,7 @@
 **2. MARCO TEORICO**
 
 **Capítulo 9**
+![image](https://user-images.githubusercontent.com/116835707/211239861-e784de35-3d5d-4101-aca3-78b3af17ee77.png)
 
 
 **Capítulo 10**
