@@ -100,15 +100,25 @@
 **![image](https://user-images.githubusercontent.com/116835707/210093922-9a3252cc-c03f-4c2e-9905-d7cdf43dab65.png)**
 **![image](https://user-images.githubusercontent.com/116835707/210093952-566981b8-db8b-477d-8261-0461cd4c2b43.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/211241066-f9340e15-3851-4f85-bb31-e816b3e0855f.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/210094016-57acb1ca-9ee4-4df7-b8a2-386e06352d3f.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/211241090-2132ce31-2b28-4201-ae34-a20ed6500457.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/210094321-4c75dd92-1f3d-4a43-9228-e315a353c5b6.png)**
 **![image](https://user-images.githubusercontent.com/116835707/210094348-94894a90-8377-432b-ab5a-220c0d7731fe.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/211241127-af14ced6-2324-4c8d-907d-02812c24f4d2.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/210094425-7f04e5e9-9f15-4cd5-bc7d-08695d0600fc.png)**
 **![image](https://user-images.githubusercontent.com/116835707/210094463-082e8c61-e066-4d0e-b9b3-46e02c3500c2.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/211241168-5a5d9953-b07a-4469-a825-b120b40aed00.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/210094500-4af2ebc8-cefc-4f2f-bdae-1eb24decd27a.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/211241201-f9a73aa5-d6e1-4ad3-9c9a-fa494c1c793f.png)
 
 **SECCIÓN 9-4**
 
@@ -117,20 +127,33 @@
 **![image](https://user-images.githubusercontent.com/116835707/210094557-d0c22f98-d96d-4403-b755-da0e37e61890.png)**
 **![image](https://user-images.githubusercontent.com/116835707/210094588-427134a0-796f-43de-95ca-b5b9787dab5d.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/211241233-31e0c8cc-4771-4e90-b5d0-0bb739a2ad33.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/210094629-6997b61a-b8db-4418-a2a4-afda0ea95dd3.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/211241256-ebd631b0-7fb0-47e6-8f0c-7ddb834ad5ef.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/210094678-48ce0962-b872-456a-acaa-e8c8a7be3588.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/211241320-33e94208-2a0c-446f-91bd-76d4d062b7b4.png)
 
 **Localización y análisis de fallas con Multisim**
 
 **![image](https://user-images.githubusercontent.com/116835707/210094709-7caa2916-e6df-405b-a359-8b7289d18c18.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/211241348-7fbfe1b0-c86f-4144-b874-9c4b6f7d888e.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/210094744-dbd5b741-90c2-4cee-9112-a5c9a214a3f6.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/211241376-07e8d766-203b-4f41-9ca6-56e183eec439.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/210094774-cff8ee4a-2bff-46bc-b8fc-fc91d706af9e.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/211241393-717e3151-a12e-44d3-8089-8199a3239904.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/210094804-a8194cdd-71c3-4694-8b83-37952ce311b7.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/211241406-614560b9-5fb5-4fc8-8c14-1fbcb46f0107.png)
 
 **Capítulo 10**
 
