@@ -29,8 +29,15 @@
 
 **Capítulo 10**
 
-
-
+**![image](https://user-images.githubusercontent.com/116835707/211240222-98a857fe-9e6c-4812-8b70-6e71e2e8c430.png)**
+**![image](https://user-images.githubusercontent.com/116835707/211240266-3e68b401-b470-4ad0-a3cd-a9632f1621ab.png)**
+**![image](https://user-images.githubusercontent.com/116835707/211240323-133cffbe-7f49-41aa-9b07-0f496af1d7ce.png)**
+**![image](https://user-images.githubusercontent.com/116835707/211240378-0ffe55c9-c55d-4a31-b0a8-2bd03acb126a.png)**
+**![image](https://user-images.githubusercontent.com/116835707/211240517-171bd280-2df1-4313-8977-39ceaf7b9590.png)**
+**![image](https://user-images.githubusercontent.com/116835707/211240578-6c2740bf-20a5-4278-8e69-58f2c133c5ba.png)**
+**![image](https://user-images.githubusercontent.com/116835707/211240623-f14dbb89-1693-4413-a71f-ea08a0d0e067.png)**
+**![image](https://user-images.githubusercontent.com/116835707/211240685-f5a65cc1-534f-4b9f-9893-bcbfad56d880.png)**
+**![image](https://user-images.githubusercontent.com/116835707/211240709-0b64534b-323b-41d0-a787-0f721b9979fa.png)**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
@@ -69,12 +76,22 @@
 **Método de la corriente en ramas**
 
 **![image](https://user-images.githubusercontent.com/116835707/210093697-dfe075d9-3c2e-4673-9a73-8130c61333fc.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/210093737-ed852988-d3d2-4d83-a6eb-0b362d804226.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/211240752-6e984f9e-1409-441c-8a93-d37dc32d5a84.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/210093774-39a0e6e8-acfa-4af4-a5df-1d298a23ea1b.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/211240819-e117dcc7-4d1c-4953-ae49-4e69deaf8d68.png)
+![image](https://user-images.githubusercontent.com/116835707/211240873-0ecb1339-3682-41c0-aa23-aae83507cd2c.png)
+![image](https://user-images.githubusercontent.com/116835707/211240901-9d72508d-ce54-4dc1-b478-a6653a4674b2.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/210093816-3e15cd31-bd02-457d-afd6-fb8b592b8084.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/210093866-09f3aaea-9cd4-4970-9b20-992bfce62e8b.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/211241005-e72c3d05-fa52-4aa7-aaf7-b5f34e0debc5.png)
 
 **SECCIÓN 9-3**
 
