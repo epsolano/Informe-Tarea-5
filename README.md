@@ -85,6 +85,7 @@
 
 ![image](https://user-images.githubusercontent.com/116835707/211240819-e117dcc7-4d1c-4953-ae49-4e69deaf8d68.png)
 ![image](https://user-images.githubusercontent.com/116835707/211240873-0ecb1339-3682-41c0-aa23-aae83507cd2c.png)
+
 ![image](https://user-images.githubusercontent.com/116835707/211240901-9d72508d-ce54-4dc1-b478-a6653a4674b2.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/210093816-3e15cd31-bd02-457d-afd6-fb8b592b8084.png)**
@@ -163,9 +164,15 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/210094986-aee14d12-f3b2-47db-9610-5e075b25fe06.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/211241570-75193d43-b36b-4fcc-bd6b-b0235e3e9282.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/210095017-97d6f659-fcdb-4159-82ad-9786fc686b59.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/211241599-d3ec4711-75cd-42bc-8998-663f0fb1acf4.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/210095053-a2df70bc-ca16-4794-aa87-4a60b9ed4ba4.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/211241625-328052f9-f8be-4096-83e3-09f496978fa4.png)
 
 **SECCIÓN 10-2**
 
@@ -173,7 +180,11 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/210095082-a63cc94a-95f0-4ed2-a62b-5990c0c0b619.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/211241655-bc26018f-2795-410b-a49e-a095f40b0b8b.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/210095105-32c52acc-c371-4876-866f-fc9c3a9ed540.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/211241729-e39580df-aebf-426c-9a20-79be3e917a7f.png)
 
 **SECCIÓN 10-3**
 
@@ -181,16 +192,25 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/210095139-8dc60f32-47f1-4343-9f29-983d9d47a23c.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/211241764-c121bb21-314b-45b7-819c-3a5407fb6ea7.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/210095210-163ba4d0-4d24-4289-b702-fa701b2b6f08.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/211241787-069ea766-4c0c-432c-88d9-c6302373973c.png)
 
 **SECCIÓN 10-4**
 
 **Histéresis magnética**
 
 **![image](https://user-images.githubusercontent.com/116835707/210095240-4ef34d6c-7822-4d88-bb29-5d96070f8782.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/210095312-ab0af663-c7c6-48ad-af1a-3fdf2f777627.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/211241976-37c19864-359b-4478-b149-37392e0b5207.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/210095334-ca26b0a1-b2bb-4c0a-8895-45a1e9ab6b9f.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/211241958-3ad6f506-d061-49b9-a146-60f1c718170a.png)
 
 **SECCIÓN 10-5**
 
@@ -198,7 +218,11 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/210095374-37b46d37-a390-47d8-bff5-148b62689eb2.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/211241920-11ffc100-2d42-4e0d-b533-8babf2b0dc1b.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/210095402-6bb70cf8-19ff-46c2-a299-4e64c70002ec.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/211241895-0fa30265-bffb-4d2d-86dd-0d4e39e9ad03.png)
 
 **SECCIÓN 10-6**
 
@@ -207,7 +231,11 @@
 **![image](https://user-images.githubusercontent.com/116835707/210095449-b4bb73f7-136a-4e91-ac87-4cc356c9c4d0.png)**
 **![image](https://user-images.githubusercontent.com/116835707/210095497-81d8edbb-31f3-499f-ac70-6df04f97226e.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/211241863-1f8f7948-c166-439e-a04b-b792fc65f864.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/210095562-00596d0c-33b7-44dd-8b9d-6b786a0da304.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/211241834-e89d7d56-4f46-438b-a8e6-8469197f3c17.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
